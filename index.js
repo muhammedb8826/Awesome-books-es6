@@ -44,7 +44,5 @@ class Books {
 window.onload = () => {
   const b = new Books();
   b.ShowBooks();
-  setInterval(() => {
-    now();
-  }, 1000);
+  setInterval(now, 1000);
 };
