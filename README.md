@@ -177,7 +177,11 @@ After pushing the changes on github, merge your pull request and let github acti
 ### Deployment
 
 Check for the tests when you generate a pull request and fix errors, if any.
-For stylelint errors run:<code>sudo npx stylelint "\*_/_.{css,scss}" --fix</code> for automatic fix.
+For stylelint errors run:<code>sudo npx stylelint "\*_/_.{css,scss}" --fix</code> for automatic fix and for eslint 
+run:    ```
+        npx eslint . --fix
+       ```
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
