@@ -63,7 +63,9 @@ After you're finished please remove all the comments and instructions!
 # 📖 Awesome Books with ES6 <a name="about-project"></a>
 
 - Awesome books is a project which is built with HTML, CSS & javascript. It's used a javascript localstorage object to save data in the browser and to retrieve it from the browser. and it has also another cool feature which displays a current time date etc with the help of luxon library
-**Portfolio-setup-and-mobile-first** is a static page that has been
+
+
+**Awesome Books with ES6** is a static page that has been
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -208,7 +210,7 @@ For stylelint errors run:<code>sudo npx stylelint "\*_/_.{css,scss}" --fix</code
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/muhammedb8826/Portfolio/issues).
+Feel free to check the [issues page](https://github.com/muhammedb8826/Awesome-books-es6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,6 +235,6 @@ I would like to thank Microverse for teaching me how to code
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
