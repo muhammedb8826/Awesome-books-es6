@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Books | with ES6</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo"><a href="#"> Awesome<span>Books</span></a></div>
+        <nav>
+            <ul>
+                <li><a href="#" id="list">List</a></li>
+                <li><a href="#" id="addNew">Add new</a></li>
+                <li><a href="#" id="contactLink">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main-section">
+        <section class="time-display">
+        </section>
+        <section class="book-container" id="displayBooks">
+            <h2 class="heading">All awesome books</h2>
+            <div class="display-books"></div>
+        </section>
+     <section class="add-books" id="addBooks">
+        <h2 class="heading">Add A new Book</h2>
+        <!-- <form action="#"> -->
+            <input type="text" id="bookTitle"  required >
+            <input type="text" id="bookAuthor"  required >
+            <button type="submit" id="addBook">Add</button>
+        <!-- </form> -->
+     </section>
+     <section class="contact" id="contact">
+        <h2 class="heading">Contact information</h1>
+        <p>
+            Do you have any questions, or jus want to say "Hello"? <br> You can reach out to us!
+        </p>
+        <address>
+            <ul class="contact-list">
+                <li class="email">Our e-mail: mail@mail.com</li>
+                <li class="phone">Our phone number: 005554443210</li>
+                <li class="address">
+                Our address: Streetname 22, 87654 City, County
+                </li>
+            </ul>
+        </address>
+     </section>
+    </main>
+    <footer class="footer">
+        <h3>&copy; Copyright some right reserved</h3>
+    </footer>
+    <script src="./index.js" defer type="module"></script>
+</body>
+</html>
