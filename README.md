@@ -128,7 +128,7 @@ After you're finished please remove all the comments and instructions!
 
 > Link to github repository.
 
-- [portfolio-setup-and-mobile-first](https://github.com/muhammedb8826/Awesome-books-es6)
+- [Awesome Books with ES6](https://github.com/muhammedb8826/Awesome-books-es6)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +153,7 @@ Clone this repository to your desired folder:
 
 git clone https://github.com/muhammedb8826/Awesome-books-es6.git
 
-cd Portfolio-setup-and-mobile-first
+cd Awesome-books-es6
 
 ### Install
 
